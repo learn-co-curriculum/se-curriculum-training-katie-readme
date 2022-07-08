@@ -2,9 +2,9 @@
 
 ## Learning Goals
 
-- Learning Goal 1
-- Learning Goal 2
-- Learning Goal 3
+- Learning Goal 1: Who is Taylor Swift Anyway?
+- Learning Goal 2: Taylor Swift Albums
+- Learning Goal 3: Taylor Swift Secret Messages
 
 ## Introduction
 
