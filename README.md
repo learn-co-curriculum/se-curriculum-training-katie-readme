@@ -1,5 +1,7 @@
 # Katie's First README
 
+![katie-slack-image](https://curriculum-content.s3.amazonaws.com/curriculum-training/katie-working-with-images/katie-test-image.jpg)
+
 ## Learning Goals
 
 - Learning Goal 1: Who is Taylor Swift Anyway?
